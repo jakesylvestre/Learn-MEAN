@@ -8,11 +8,13 @@ Definitions:
 Commands:
 
 * npm init
+* npm install nodemon -g 
 * npm install --save express jade
 * npm install bower
 * bower init
 * bower install jquery --save
 * bower install toastr --save
 * bower install angular angular-resource angular-route --save
+* nodemon 
 Notes:
 * --save-dev makes it non-global in scope when using npm
